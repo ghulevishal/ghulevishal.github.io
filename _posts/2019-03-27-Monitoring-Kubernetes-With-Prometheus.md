@@ -3,9 +3,7 @@ title: Monitoring Kubernetes with Prometheus
 date: 2019-03-27 00:00:00
 layout: post
 tags:
-  - Kubernetes
   - Prometheus
-  - Monitoring
 ---
 
 
