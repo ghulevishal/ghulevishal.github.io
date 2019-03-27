@@ -22,19 +22,19 @@ local: false  #Enable for github
 # local: true
 
 # edit here to achieve your personal greatness
-url: https://sumit.murari.me
+url: https://blog.vishalghule.dev
 baseurl:
-author: Sumit Murari
+author: Vishal Ghule
 description: Place to keep my silly thoughts
 avatar: profile.png
-email: sumit@murari.me
+email: me@vishalghule.dev
 email_feedback: true
-github: murarisumit
+github: ghulevishal
 # aboutme: murarisumit
-linkedin: murarisumit
-stackoverflow: 2735833
+linkedin: vishal-ghule
+stackoverflow: 8084612
 # stackoverflow_story: murarisumit
-google_analytics: UA-64117471-1
+#google_analytics: UA-64117471-1
 feeds: true
 plugins:
 - jekyll-paginate
