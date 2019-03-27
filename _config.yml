@@ -22,7 +22,7 @@ local: false  #Enable for github
 # local: true
 
 # edit here to achieve your personal greatness
-url: https://blog.vishalghule.dev
+url: https://www.vishalghule.dev
 baseurl:
 author: Vishal Ghule
 description: Place to keep my silly thoughts
