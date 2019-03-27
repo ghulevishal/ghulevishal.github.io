@@ -172,7 +172,7 @@ alertmanagerFiles:
     global: {}
     global:
       smtp_smarthost: 'smtp.gmail.com:587'
-      smtp_from: 'sender@cloudyuga.guru'
+      smtp_from: 'sender@vishalghule.dev'
     templates:
     - '/etc/alertmanager/template/*.tmpl'
     route:
@@ -180,11 +180,11 @@ alertmanagerFiles:
     receivers:
     - name: 'email'
       email_configs:
-      - to: 'reciever@cloudyuga.guru'
-        from: "sender@cloudyuga.guru"
+      - to: 'reciever@vishalghule.dev'
+        from: "sender@vishalghule.dev"
         smarthost: smtp.gmail.com:587
-        auth_username: "sender@cloudyuga.guru"
-        auth_identity: "sender@cloudyuga.guru"
+        auth_username: "sender@vishalghule.dev"
+        auth_identity: "sender@vishalghule.dev"
         auth_password: "************"
 .
 .
