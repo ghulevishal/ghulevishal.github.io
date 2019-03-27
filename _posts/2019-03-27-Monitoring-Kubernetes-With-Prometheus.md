@@ -12,8 +12,6 @@ tags:
 
 # Monitoring with Prometheus
 
-## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeh-3aSDikw7SdOMBKuyD0y4rmLfIrMHXRc_qs3fUYfv601wkC1_IFcuP2-1pfIgjRYfnPJQqNb6Tg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
